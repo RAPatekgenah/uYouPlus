@@ -12,7 +12,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "Direct URL to the decrypted YouTube ipa. The version of YouTube will be detected automatically."
+        description: "https://www.dropbox.com/scl/fi/3xz6gweb0061m0qscu913/YouTube-v20.03.02-AppTesters.ipa?rlkey=ac8qum2jqgj6w41ou2wx9j8nn&st=aryv022q&dl=0"
         default: ""
         required: true
         type: string
